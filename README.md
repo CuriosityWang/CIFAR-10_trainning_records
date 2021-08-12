@@ -15,8 +15,8 @@
 ![image](https://user-images.githubusercontent.com/50990182/129144452-ad0bf580-90c9-4c3d-b8c0-2053868c6b89.png)
 2. 运行train.py
 ![image](https://user-images.githubusercontent.com/50990182/129144616-a1c5d61b-2459-49a4-93cf-9cac266999f3.png)
-可以把Cir_module修改为你想要测试的模型,模型在module.py
-3. 使用Resnet模型时可以导入训练好的Cir_9.pth,以减少训练时间.Cir_9.pth在realse/module下
+可以把Cir_module修改为你想要测试的模型,模型在module.py中
+3. 使用Resnet模型时可以导入训练好的Cir_9.pth,以减少训练时间.Cir_9.pth在releases/module_file下
 
 训练笔记请看: https://www.cnblogs.com/programmerwang/p/15129658.html
 
